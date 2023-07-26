@@ -1,4 +1,4 @@
-# Compressible-Fluid-Dynamics
+# Compressible-Fluid-Dynamics python and MATLAB simulation
 Hi guys!
 
 Thanks for joining us for Chulalongkorn University's Compressible Fluid Dynamics (2103-566) course. This is a hands-on, portfolio-based course. The course is built with an open-source license so after you fork the repository it's yours! 
